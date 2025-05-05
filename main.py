@@ -122,6 +122,5 @@ class MainWindow(CTk):
         else:
             self.add_message(line)
 
-
 window = MainWindow()
 window.mainloop()
